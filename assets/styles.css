@@ -1,6 +1,7 @@
 /* Google Webfonts */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600);
 @import url(http://fonts.googleapis.com/css?family=Karla:700);
+@import url(http://fonts.googleapis.com/css?family=Share+Take+Mono:700);
 
 /* Fallback */
 header, footer, section, article, nav, aside { display: block }
@@ -16,7 +17,7 @@ html {
     -webkit-font-smoothing: antialiased; }
 
 body {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Share Take Mono", sans-serif;
     font-size: 1.125rem;
     color: #4b505a;
     line-height: 1.5;
