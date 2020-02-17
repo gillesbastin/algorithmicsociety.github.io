@@ -29,7 +29,7 @@ Laurence Dumoulin, CNRS / Pacte, laurence.dumoulin@umrpacte.fr
 <hr>
 Paolo Frasca, CNRS / GIPSA, paolo.frasca@gipsa-lab.grenoble-inp.fr
 <hr>
-Florent Frasque (Master SGC / Sciences Po Grenoble). Florent est assistant de recherche de la chaire et travaille avec Laurence Dumoulin sur les premières expérimentations de justice prédictive en France. Contact : [florent.frasque@etu-iepg.fr](mailto:florent.frasque@etu-iepg.fr)
+**Florent Frasque** (Master SGC / Sciences Po Grenoble). Florent est assistant de recherche de la chaire et travaille avec Laurence Dumoulin sur les premières expérimentations de justice prédictive en France. Contact : [florent.frasque@etu-iepg.fr](mailto:florent.frasque@etu-iepg.fr)
 <hr>
 Patrick Loiseau, INRIA, patrick.loiseau@inria.fr
 <hr>
@@ -38,6 +38,8 @@ Severine Louvel, Sciences Po Grenoble / Pacte, severine.louvel@iepg.fr
 Emmanuel Marty, UGA / Gresec, emmanuel.marty@univ-grenoble-alpes.fr
 <hr>
 Kavé Salamatian, USMB / LIPSTIC, kave.salamatian@univ-savoie.fr
+<hr>
+**Mirjeta Shabani** (Master Mosig / G-INP, projet GenderedNews). Mirjeta est assistante de recherche de la chaire et travaille avec Gilles Bastin et François Portet (LIG) sur la détection des biais genrés dans les dépêches de l'AFP. Contact : [mirjeta.shabani2@grenoble-inp.org](mailto:mirjeta.shabani2@grenoble-inp.org)
 <hr>
 Nathalie Walczak UGA / Gresec, nathalie.walczak@univ-grenoble-alpes.fr
 <hr>
@@ -48,4 +50,4 @@ Flavie Genatio (thèse sur les hacker/makerspaces)
 Anastasia Magat (thèse sur l’image des quartiers populaires sur les réseaux sociaux)
 
 Masterant•es associé•es :
-Mirjeta Shabani (Master Mosig / G-INP, projet GenderedNews)
+
