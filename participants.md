@@ -13,11 +13,11 @@ image: 			header-1.jpg
 
 ---
 
-Isabelle Allegret, UGA / Citizen Campus (https://citizencampus.univ-grenoble-alpes.fr/)[https://citizencampus.univ-grenoble-alpes.fr/]
+**Isabelle Allegret**, UGA / Citizen Campus [https://citizencampus.univ-grenoble-alpes.fr/](https://citizencampus.univ-grenoble-alpes.fr/)
 <hr>
-Gilles Bastin, Sciences Po Grenoble / Pacte, gilles.bastin@iepg.fr
+**Gilles Bastin**, Sciences Po Grenoble / Pacte, gilles.bastin@iepg.fr
 <hr>
-Marine Bourgeois (logement social)
+**Marine Bourgeois** (logement social)
 <hr>
 Sylvain Bouveret, Gilles-INP / LIG, sylvain.bouveret@imag.fr
 <hr>
