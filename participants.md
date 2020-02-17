@@ -17,7 +17,7 @@ image: 			header-1.jpg
 <hr>
 **Gilles Bastin** (Sciences Po Grenoble / Pacte). Gilles coordonne les activités de la chaire. Il est impliqué dans plusieurs projets sur l'algorithmisation des médias et la recherche sur les biais algorithmique dans la distribution de l'information liés au genre et à la classe sociale. Il enseigne aussi le cours "Société Algorithmique" à Sciences Po Grenoble. Contact : [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr).
 <hr>
-**Marine Bourgeois** (logement social)
+**Marine Bourgeois** (Sciences Po Grenoble / Pacte). Marine travaille sur l'utilisation d'algorithmes de classement dans les politiques du logement en France. Contact : [marine.bourgeois@iepg.fr](marine.bourgeois@iepg.fr).
 <hr>
 Sylvain Bouveret, Gilles-INP / LIG, sylvain.bouveret@imag.fr
 <hr>
