@@ -24,11 +24,9 @@ La chaire Société algorithmique conduit des recherches sur le tournant algorit
 {% for post in site.posts limit:site.pagination %}
       <span class="post-meta">{{ post.date | date: "%d %b %Y" }}
       </span>
-      <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
           {{ post.title }}
         </a>
-      </h2>
       <br>
 {% endfor %}
 </ul>
