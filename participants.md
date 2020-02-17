@@ -13,7 +13,7 @@ image: 			header-1.jpg
 
 ---
 
-**Isabelle Allegret**, UGA / Citizen Campus [https://citizencampus.univ-grenoble-alpes.fr/](https://citizencampus.univ-grenoble-alpes.fr/)
+**Isabelle Allegret**, UGA / Citizen Campus [https://citizencampus.univ-grenoble-alpes.fr/](https://citizencampus.univ-grenoble-alpes.fr/) | [isabelle.allegret@univ-grenoble-alpes.fr](mailto:isabelle.allegret@univ-grenoble-alpes.fr).
 <hr>
 **Gilles Bastin**, Sciences Po Grenoble / Pacte, gilles.bastin@iepg.fr
 <hr>
