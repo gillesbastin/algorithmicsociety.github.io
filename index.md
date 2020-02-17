@@ -20,7 +20,7 @@ La chaire Société algorithmique conduit des recherches sur le tournant algorit
 <h2>Actualité</h2>
 <p>Voir la rubrique « Archive » pour retrouver l'ensemble des actualités postées sur ce site.</p>
 
-<ul class="post-list">
+
 {% for post in site.posts limit:site.pagination %}
       <span class="post-meta">{{ post.date | date: "%d %b %Y" }}
       </span>
@@ -29,4 +29,4 @@ La chaire Société algorithmique conduit des recherches sur le tournant algorit
         </a>
       <br>
 {% endfor %}
-</ul>
+
