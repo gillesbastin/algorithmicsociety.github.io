@@ -13,9 +13,9 @@ image: 			header-1.jpg
 
 ---
 
-**Isabelle Allegret**, UGA / Citizen Campus [https://citizencampus.univ-grenoble-alpes.fr/](https://citizencampus.univ-grenoble-alpes.fr/) | [isabelle.allegret@univ-grenoble-alpes.fr](mailto:isabelle.allegret@univ-grenoble-alpes.fr).
+**Isabelle Allegret** (UGA / Citizen Campus). Isabelle dirige le programme Citizen Campus qui forme des étudiants au débat public sur des grands enjeux des sciences en société [https://citizencampus.univ-grenoble-alpes.fr/](https://citizencampus.univ-grenoble-alpes.fr/). Contact : [isabelle.allegret@univ-grenoble-alpes.fr](mailto:isabelle.allegret@univ-grenoble-alpes.fr).
 <hr>
-**Gilles Bastin**, Sciences Po Grenoble / Pacte, gilles.bastin@iepg.fr
+**Gilles Bastin** (Sciences Po Grenoble / Pacte). Gilles coordonne les activités de la chaire. Il est impliqué dans plusieurs projets sur l'algorithmisation des médias et la recherche sur les biais algorithmique dans la distribution de l'information liés au genre et à la classe sociale. Il enseigne aussi le cours "Société Algorithmique" à Sciences Po Grenoble. Contact : [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr).
 <hr>
 **Marine Bourgeois** (logement social)
 <hr>
