@@ -13,9 +13,12 @@ image: 			header-1.jpg
 
 ---
 
-Isabelle Allegret, UGA / Citizen Campus, isabelle.allegret@univ-grenoble-alpes.fr
+Isabelle Allegret, UGA / Citizen Campus (https://citizencampus.univ-grenoble-alpes.fr/)
+<hr>
 Gilles Bastin, Sciences Po Grenoble / Pacte, gilles.bastin@iepg.fr
+<hr>
 Marine Bourgeois (logement social)
+<hr>
 florent.frasque@etu-iepg.fr (stage assistant de recherche Laurence)
 Sylvain Bouveret, Gilles-INP / LIG, sylvain.bouveret@imag.fr
 Vincent Bullich, Université Grenoble Alpes / Gresec, vincent.bullich@univ-grenoble-alpes.fr
