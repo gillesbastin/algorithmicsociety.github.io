@@ -29,7 +29,7 @@ Laurence Dumoulin, CNRS / Pacte, laurence.dumoulin@umrpacte.fr
 <hr>
 Paolo Frasca, CNRS / GIPSA, paolo.frasca@gipsa-lab.grenoble-inp.fr
 <hr>
-Florent Frasqueflorent.frasque@etu-iepg.fr (stage assistant de recherche Laurence)
+Florent Frasque (Master SGC / Sciences Po Grenoble). Florent est assistant de recherche de la chaire et travaille avec Laurence Dumoulin sur les premières expérimentations de justice prédictive en France. Contact : [florent.frasque@etu-iepg.fr](mailto:florent.frasque@etu-iepg.fr)
 <hr>
 Patrick Loiseau, INRIA, patrick.loiseau@inria.fr
 <hr>
