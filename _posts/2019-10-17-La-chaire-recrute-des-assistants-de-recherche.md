@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		"La chaire recrute des assistant•es de recherche | <i>The chair is looking for research assistants</i>"
+title:  		"La chaire recrute des assistant•es de recherche"
 type:			  post
 navigation: false
 details:		  true
