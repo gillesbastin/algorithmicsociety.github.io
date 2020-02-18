@@ -17,7 +17,7 @@ image: 		header-1.jpg
         {% for post in site.posts offset: site.pagination + 1 %}
         <ul>
         <li>
-            <span class="date">{{ post.date | date: "%Y-%B-%d" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </li>
         </ul>
         {% endfor %}
