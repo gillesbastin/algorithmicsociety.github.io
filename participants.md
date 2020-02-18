@@ -15,11 +15,11 @@ image: 			header-1.jpg
 
 **Isabelle Allegret** (UGA / Citizen Campus). Isabelle Allegret dirige le programme Citizen Campus qui forme des étudiants au débat public sur des grands enjeux des sciences en société [https://citizencampus.univ-grenoble-alpes.fr/](https://citizencampus.univ-grenoble-alpes.fr/). Contact : [isabelle.allegret@univ-grenoble-alpes.fr](mailto:isabelle.allegret@univ-grenoble-alpes.fr).
 <hr>
-**Gilles Bastin** (Sciences Po Grenoble / Pacte). Gilles Bastin coordonne les activités de la chaire. Il est impliqué dans plusieurs projets sur l'algorithmisation des médias et la recherche sur les biais algorithmique liés au genre et à la classe sociale dans la distribution de l'information. Il enseigne le cours "Société Algorithmique" à Sciences Po Grenoble. Contact : [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr).
+**Gilles Bastin** (Sciences Po Grenoble / Pacte). Gilles Bastin est Professeur de sociologie. coordonne les activités de la chaire. Il est impliqué dans plusieurs projets sur l'algorithmisation des médias et la recherche sur les biais algorithmique liés au genre et à la classe sociale dans la distribution de l'information. Il enseigne le cours "Société Algorithmique" à Sciences Po Grenoble. [Plus d'infos](gillesbastin.github.io/). Contact : [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr).
 <hr>
-**Marine Bourgeois** (Sciences Po Grenoble / Pacte). Marine Bourgeois travaille sur l'utilisation d'algorithmes de classement dans les politiques du logement en France. Contact : [marine.bourgeois@iepg.fr](marine.bourgeois@iepg.fr).
+**Marine Bourgeois** (Sciences Po Grenoble / Pacte). Marine Bourgeois est Maître de conférences de science politique. Elle travaille sur l'utilisation d'algorithmes de classement dans les politiques du logement en France. [Plus d'infos](https://www.pacte-grenoble.fr/membres/marine-bourgeois). Contact : [marine.bourgeois@iepg.fr](marine.bourgeois@iepg.fr).
 <hr>
-Sylvain Bouveret, Gilles-INP / LIG, sylvain.bouveret@imag.fr
+Sylvain Bouveret (Grenoble-INP / LIG). Sylvain Bouveret est Maître de conférences en informatique. Il travaille sur le choix social computationnel et les algorithmes d'allocation de ressources. [Plus d'infos](http://recherche.noiraudes.net/fr/). Contact : [sylvain.bouveret@imag.fr](sylvain.bouveret@imag.fr).
 <hr>
 Vincent Bullich, Université Grenoble Alpes / Gresec, vincent.bullich@univ-grenoble-alpes.fr
 <hr>
