@@ -7,7 +7,7 @@ navigation: 	true
 details:        true
 
 date:   	2019-10-13
-excerpt: 	"Retrouvez sur cette page toutes les actualités de la chaire postés sur le site."
+excerpt: 	"Retrouvez sur cette page toutes les actualités de la chaire postées sur le site."
 gradient: 	2
 image: 		header-1.jpg
 
@@ -17,7 +17,7 @@ image: 		header-1.jpg
         {% for post in site.posts offset: site.pagination + 1 %}
         <ul>
         <li>
-            <span class="date">{{ post.date | date: "%d %b %Y" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%Y-%b-%d" }}</span> | <a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </li>
         </ul>
         {% endfor %}
