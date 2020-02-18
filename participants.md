@@ -15,7 +15,7 @@ image: 			header-1.jpg
 
 **Isabelle Allegret** (UGA / Citizen Campus). Isabelle Allegret dirige le programme Citizen Campus qui forme des étudiants au débat public sur des grands enjeux des sciences en société [https://citizencampus.univ-grenoble-alpes.fr/](https://citizencampus.univ-grenoble-alpes.fr/). Contact : [isabelle.allegret@univ-grenoble-alpes.fr](mailto:isabelle.allegret@univ-grenoble-alpes.fr).
 <hr>
-**Gilles Bastin** (Sciences Po Grenoble / Pacte). Gilles Bastin coordonne les activités de la chaire. Il est impliqué dans plusieurs projets sur l'algorithmisation des médias et la recherche sur les biais algorithmique dans la distribution de l'information liés au genre et à la classe sociale. Il enseigne aussi le cours "Société Algorithmique" à Sciences Po Grenoble. Contact : [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr).
+**Gilles Bastin** (Sciences Po Grenoble / Pacte). Gilles Bastin coordonne les activités de la chaire. Il est impliqué dans plusieurs projets sur l'algorithmisation des médias et la recherche sur les biais algorithmique liés au genre et à la classe sociale dans la distribution de l'information. Il enseigne le cours "Société Algorithmique" à Sciences Po Grenoble. Contact : [gilles.bastin@iepg.fr](mailto:gilles.bastin@iepg.fr).
 <hr>
 **Marine Bourgeois** (Sciences Po Grenoble / Pacte). Marine Bourgeois travaille sur l'utilisation d'algorithmes de classement dans les politiques du logement en France. Contact : [marine.bourgeois@iepg.fr](marine.bourgeois@iepg.fr).
 <hr>
@@ -45,11 +45,3 @@ Kavé Salamatian, USMB / LIPSTIC, kave.salamatian@univ-savoie.fr
 <hr>
 Nathalie Walczak UGA / Gresec, nathalie.walczak@univ-grenoble-alpes.fr
 <hr>
-Jean Finez Université Grenoble Alpes/Pacte
-
-Doctorant•es associé•es :
-Flavie Genatio (thèse sur les hacker/makerspaces)
-Anastasia Magat (thèse sur l’image des quartiers populaires sur les réseaux sociaux)
-
-Masterant•es associé•es :
-
