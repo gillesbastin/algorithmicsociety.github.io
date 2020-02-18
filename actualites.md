@@ -1,13 +1,13 @@
 ---
 
 layout:		default
-title:  	Archive
+title:  	Actualités
 type:		page
 navigation: 	true
 details:        true
 
 date:   	2019-10-13
-excerpt: 	"Retrouvez sur cette page tous les articles postés sur le site."
+excerpt: 	"Retrouvez sur cette page toutes les actualités de la chaire postés sur le site."
 gradient: 	2
 image: 		header-1.jpg
 
