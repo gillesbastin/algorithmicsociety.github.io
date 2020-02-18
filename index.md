@@ -18,7 +18,7 @@ La chaire Société algorithmique conduit des recherches sur le tournant algorit
 <hr>
 
 <h2>Actualité</h2>
-<p>Voir la rubrique « Archive » pour retrouver l'ensemble des actualités postées sur ce site.</p>
+<p>Voir la rubrique « Actualités » pour retrouver l'ensemble des actualités postées sur ce site.</p>
 
 <ul class="post-list">
 {% for post in site.posts limit:site.pagination %}
