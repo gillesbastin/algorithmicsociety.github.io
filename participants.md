@@ -19,27 +19,27 @@ image: 			header-1.jpg
 <hr>
 **Marine Bourgeois** (Sciences Po Grenoble / Pacte). Marine Bourgeois est Maître de conférences de science politique. Elle travaille sur l'utilisation d'algorithmes de classement dans les politiques du logement en France. [Plus d'infos](https://www.pacte-grenoble.fr/membres/marine-bourgeois). Contact : [marine.bourgeois@iepg.fr](marine.bourgeois@iepg.fr).
 <hr>
-Sylvain Bouveret (Grenoble-INP / LIG). Sylvain Bouveret est Maître de conférences en informatique. Il travaille sur le choix social computationnel et les algorithmes d'allocation de ressources. [Plus d'infos](http://recherche.noiraudes.net/fr/). Contact : [sylvain.bouveret@imag.fr](sylvain.bouveret@imag.fr).
+**Sylvain Bouveret** (Grenoble-INP / LIG). Sylvain Bouveret est Maître de conférences en informatique. Il travaille sur le choix social computationnel et les algorithmes d'allocation de ressources. [Plus d'infos](http://recherche.noiraudes.net/fr/). Contact : [sylvain.bouveret@imag.fr](sylvain.bouveret@imag.fr).
 <hr>
-Vincent Bullich, Université Grenoble Alpes / Gresec, vincent.bullich@univ-grenoble-alpes.fr
+**Vincent Bullich** (Université Grenoble Alpes / Gresec). Vincent Bullich est Maître de conférences en sciences de l'information et de la communication. Il travaille sur les algorithmes de recommandation et les régimes numériques de visibilité des contenus culturels. Contact : [vincent.bullich@univ-grenoble-alpes.fr](vincent.bullich@univ-grenoble-alpes.fr).
 <hr>
-Nicolas Douay, Université Grenoble Alpes / Pacte, nicolas.douay@univ-grenoble-alpes.fr
+**Nicolas Douay** (Université Grenoble Alpes / Pacte). Nicolas Douay est Professeur d'urbanisme. Il travaille sur le recours à l'intelligenceartificielle dans le planning urbain. Contact : [nicolas.douay@univ-grenoble-alpes.fr](nicolas.douay@univ-grenoble-alpes.fr).
 <hr>
-Laurence Dumoulin, CNRS / Pacte, laurence.dumoulin@umrpacte.fr
+**Laurence Dumoulin** (CNRS / Pacte), Laurence Dumoulin est Chargée de recherche au CNRS. Elle travaille sur l'innovation dans la justice et les expérimentations françaises en matière de justice prédictive. Contact : [laurence.dumoulin@umrpacte.fr](laurence.dumoulin@umrpacte.fr).
 <hr>
-Jean Finez
+**Jean Finez** (Université Grenoble Alpes / Pacte). Jean Finez est Maître de conférences en sociologie. Il travaille sur les plateformes d'échange sur le web, plus particulièrement le webcaming et les trajectoires sociales des camgirls. Contact : [jean.finez@univ-grenoble-alpes.fr](jean.finez@univ-grenoble-alpes.fr).
 <hr>
-Paolo Frasca, CNRS / GIPSA, paolo.frasca@gipsa-lab.grenoble-inp.fr
+**Paolo Frasca** (CNRS / GIPSA). Paolo Frasca est Chargé de recherche au CNRS. Il travaille sur la formalisation mathématique des effets des systèmes de recommandation en ligne. Contact : [paolo.frasca@gipsa-lab.grenoble-inp.fr](paolo.frasca@gipsa-lab.grenoble-inp.fr).
 <hr>
 **Florent Frasque** (Master SGC / Sciences Po Grenoble). Florent Frasque est assistant de recherche de la chaire et travaille avec Laurence Dumoulin sur les premières expérimentations de justice prédictive en France. Contact : [florent.frasque@etu-iepg.fr](mailto:florent.frasque@etu-iepg.fr)
 <hr>
 Patrick Loiseau, INRIA, patrick.loiseau@inria.fr
 <hr>
-Severine Louvel, Sciences Po Grenoble / Pacte, severine.louvel@iepg.fr
+**Severine Louvel** (Sciences Po Grenoble / Pacte). Séverine Louvel est Maître de conférences en sociologie. Elle travaille sur le recours à l'intelligence artificielle dans la relation de soin à l'hôpital. Contact : [severine.louvel@iepg.fr](severine.louvel@iepg.fr).
 <hr>
-Emmanuel Marty, UGA / Gresec, emmanuel.marty@univ-grenoble-alpes.fr
+**Emmanuel Marty** (UGA / Gresec). Emmanuel Marty est Maître de conférences en sciences de l'information et de la communication. Il travaille sur la médiatisation de l'intelligence artificielle en France (avec Nathalie Walcsak) et les systèmes de recommandation culturelle (avec Vincent Bullich). Contact :[emmanuel.marty@univ-grenoble-alpes.fr](emmanuel.marty@univ-grenoble-alpes.fr).
 <hr>
-Kavé Salamatian, USMB / LIPSTIC, kave.salamatian@univ-savoie.fr
+**Kavé Salamatian** (USMB / LIPSTIC), kave.salamatian@univ-savoie.fr
 <hr>
 **Mirjeta Shabani** (Master Mosig / G-INP, projet GenderedNews). Mirjeta Shabani est assistante de recherche de la chaire et travaille avec Gilles Bastin et François Portet (LIG) sur la détection des biais genrés dans les dépêches de l'AFP. Contact : [mirjeta.shabani2@grenoble-inp.org](mailto:mirjeta.shabani2@grenoble-inp.org)
 <hr>
