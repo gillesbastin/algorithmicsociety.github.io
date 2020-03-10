@@ -1,7 +1,7 @@
 ---
 
 layout:		  	default
-title:  		  [Séminaire AlgSoc] Baptiste Kotras : « Capitales données. Économies politiques et matérielles du data marketing »
+title:  		  "[Séminaire AlgSoc] Baptiste Kotras : « Capitales données. Économies politiques et matérielles du data marketing »"
 type:			    post
 navigation:   false
 
