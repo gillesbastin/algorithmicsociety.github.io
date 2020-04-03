@@ -49,7 +49,10 @@ Les candidatures sont attendues avant le 1er juin 2020 et doivent être envoyée
 - leur dernier diplôme,
 - un CV,
 - une présentation du projet de recherche qu'ils ou elles souhaitent mener (5 pages max).
+
 Ils ou elles peuvent également ajouter des lettres de recommandation.
+
+Le comité de sélection informera les candidat•es de sa décision avant le 1er juillet 2020.
 
 Pour toute autre question, merci de contacter Gilles Bastin à gilles.bastin@iepg.fr.
 
@@ -99,7 +102,9 @@ Applications are expected before June 1st, 2020 and should be sent to Gilles Bas
 - their last diploma,
 - a CV,
 - a short presentation of the research project they want to carry on (5 pages max).
+
 They can also add recommendation letters.
+
 The selection committee will inform applicants of its decision before July, 1st, 2020.
 
 If you have any further questions about the position and the project, please contact Gilles Bastin at gilles.bastin@iepg.fr
