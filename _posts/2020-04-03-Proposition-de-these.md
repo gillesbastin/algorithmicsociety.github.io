@@ -49,7 +49,7 @@ Pour toute autre question, merci de contacter Gilles Bastin à gilles.bastin@iep
 
 ## Plus d’informations
 
-(https://algorithmicsociety.github.io/)[https://algorithmicsociety.github.io/]
+https://algorithmicsociety.github.io/
 https://www.pacte-grenoble.fr/
 https://miai.univ-grenoble-alpes.fr/
 <br>
