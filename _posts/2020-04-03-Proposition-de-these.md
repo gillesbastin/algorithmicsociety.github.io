@@ -61,7 +61,7 @@ https://miai.univ-grenoble-alpes.fr/
 
 <br>
   
-## The PhD project : « Learning AI : The social production of expert algorithmic knowledge »**
+## The PhD project : « Learning AI : The social production of expert algorithmic knowledge »
 
 Social science research on the world of computing, algorithms and big data has been deeply renewed in recent years. While most research started focusing on IT innovation in organizations, it has gradually taken into account a broader vision of the social « ecologies » in which data and algorithmic work is carried out. Research laboratories and their « groupwares », short-term projects organizations in the field of free software, the discussion channels of those who present themselves as « hackers » have for instance been lately investigated. Our knowledge of the social practices behind the « code » has greatly benefited from that research (for example in terms of the personal ethics of coders, the organization of work among them, the beginnings of a professionalization process in that world, the criteria used to define the expertise and the quality of coding work or even the political virtues of practicing the code).
 The process of acquiring the expertise required to access the coding world has nevertheless attracted less research. The emphasis placed on the informal dimension of knowledge in this world has undoubtedly contributed to obscuring the socialization and training issue. It is for instance striking that our understanding of the coding world is based on the essentialization of the qualities required to make a career in it (terms like « geek », « nerd » or even « hacker » participate in this concealment by suggesting that the provisions necessary for practicing computer code cannot be learned).
