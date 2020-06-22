@@ -23,13 +23,13 @@ image: 			header-1.jpg
 <hr>
 **Vincent Bullich** (Université Grenoble Alpes / Gresec). Vincent Bullich est Maître de conférences en sciences de l'information et de la communication. Il travaille sur les algorithmes de recommandation et les régimes numériques de visibilité des contenus culturels. [Plus d'infos](http://gresec.univ-grenoble-alpes.fr/version-francaise/membres/vincent-bullich-533174.kjsp). Contact : [vincent.bullich@univ-grenoble-alpes.fr](vincent.bullich@univ-grenoble-alpes.fr).
 <hr>
-**Nicolas Douay** (Université Grenoble Alpes / Pacte). Nicolas Douay est Professeur d'urbanisme. Il travaille sur le recours à l'intelligenceartificielle dans le planning urbain. Contact : [nicolas.douay@univ-grenoble-alpes.fr](nicolas.douay@univ-grenoble-alpes.fr).
+**Nicolas Douay** (Université Grenoble Alpes / Pacte). Nicolas Douay est Professeur d'urbanisme. Il travaille sur le recours à l'intelligenceartificielle dans le planning urbain. [Plus d'infos](https://www.pacte-grenoble.fr/membres/nicolas-douay). Contact : [nicolas.douay@univ-grenoble-alpes.fr](nicolas.douay@univ-grenoble-alpes.fr).
 <hr>
 **Laurence Dumoulin** (CNRS / Pacte), Laurence Dumoulin est Chargée de recherche au CNRS. Elle travaille sur l'innovation dans la justice et les expérimentations françaises en matière de justice prédictive. [Plus d'infos](https://www.pacte-grenoble.fr/membres/laurence-dumoulin). Contact : [laurence.dumoulin@umrpacte.fr](laurence.dumoulin@umrpacte.fr).
 <hr>
 **Jean Finez** (Université Grenoble Alpes / Pacte). Jean Finez est Maître de conférences en sociologie. Il travaille sur les plateformes d'échange sur le web, plus particulièrement le webcaming et les trajectoires sociales des camgirls. [Plus d'infos](https://www.pacte-grenoble.fr/membres/jean-finez). Contact : [jean.finez@univ-grenoble-alpes.fr](jean.finez@univ-grenoble-alpes.fr).
 <hr>
-**Paolo Frasca** (CNRS / GIPSA). Paolo Frasca est Chargé de recherche au CNRS. Il travaille sur la formalisation mathématique des effets des systèmes de recommandation en ligne. Contact : [paolo.frasca@gipsa-lab.grenoble-inp.fr](paolo.frasca@gipsa-lab.grenoble-inp.fr).
+**Paolo Frasca** (CNRS / GIPSA). Paolo Frasca est Chargé de recherche au CNRS. Il travaille sur la formalisation mathématique des effets des systèmes de recommandation en ligne. [Plus d'infos](http://www.gipsa-lab.grenoble-inp.fr/~paolo.frasca/). Contact : [paolo.frasca@gipsa-lab.grenoble-inp.fr](paolo.frasca@gipsa-lab.grenoble-inp.fr).
 <hr>
 **Florent Frasque** (Master SGC / Sciences Po Grenoble). Florent Frasque est assistant de recherche de la chaire et travaille avec Laurence Dumoulin sur les premières expérimentations de justice prédictive en France. Contact : [florent.frasque@etu-iepg.fr](mailto:florent.frasque@etu-iepg.fr)
 <hr>
@@ -37,7 +37,7 @@ image: 			header-1.jpg
 <hr>
 **Emmanuel Marty** (UGA / Gresec). Emmanuel Marty est Maître de conférences en sciences de l'information et de la communication. Il travaille sur la médiatisation de l'intelligence artificielle en France (avec Nathalie Walcsak) et les systèmes de recommandation culturelle (avec Vincent Bullich). [Plus d'infos](http://gresec.univ-grenoble-alpes.fr/version-francaise/membres/emmanuel-marty-539633.kjsp). Contact :[emmanuel.marty@univ-grenoble-alpes.fr](emmanuel.marty@univ-grenoble-alpes.fr).
 <hr>
-**Kavé Salamatian** (USMB / LIPSTIC). Kavé Salamatian est Professeur d'informatique. Il travaille sur l'Internet du futur, le traitement du signal distribué, la métrologie des réseaux et la théorie de la coopération. Contact : [kave.salamatian@univ-savoie.fr](kave.salamatian@univ-savoie.fr).
+**Kavé Salamatian** (USMB / LIPSTIC). Kavé Salamatian est Professeur d'informatique. Il travaille sur l'Internet du futur, le traitement du signal distribué, la métrologie des réseaux et la théorie de la coopération. [Plus d'infos](https://www.listic.univ-smb.fr/en/presentation-en/members/lecturers/kave-salamatian-en/). Contact : [kave.salamatian@univ-savoie.fr](kave.salamatian@univ-savoie.fr).
 <hr>
 **Mirjeta Shabani** (Master Mosig / G-INP, projet GenderedNews). Mirjeta Shabani est assistante de recherche de la chaire et travaille avec Gilles Bastin et François Portet (LIG) sur la détection des biais genrés dans les dépêches de l'AFP. Contact : [mirjeta.shabani2@grenoble-inp.org](mailto:mirjeta.shabani2@grenoble-inp.org)
 <hr>
