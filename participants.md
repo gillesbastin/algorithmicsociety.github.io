@@ -21,7 +21,7 @@ image: 			header-1.jpg
 <hr>
 **Sylvain Bouveret** (Grenoble-INP / LIG). Sylvain Bouveret est Maître de conférences en informatique. Il travaille sur le choix social computationnel et les algorithmes d'allocation de ressources. [Plus d'infos](http://recherche.noiraudes.net/fr/). Contact : [sylvain.bouveret@imag.fr](sylvain.bouveret@imag.fr).
 <hr>
-**Vincent Bullich** (Université Grenoble Alpes / Gresec). Vincent Bullich est Maître de conférences en sciences de l'information et de la communication. Il travaille sur les algorithmes de recommandation et les régimes numériques de visibilité des contenus culturels. Contact : [vincent.bullich@univ-grenoble-alpes.fr](vincent.bullich@univ-grenoble-alpes.fr).
+**Vincent Bullich** (Université Grenoble Alpes / Gresec). Vincent Bullich est Maître de conférences en sciences de l'information et de la communication. Il travaille sur les algorithmes de recommandation et les régimes numériques de visibilité des contenus culturels. [Plus d'infos](http://gresec.univ-grenoble-alpes.fr/version-francaise/membres/vincent-bullich-533174.kjsp). Contact : [vincent.bullich@univ-grenoble-alpes.fr](vincent.bullich@univ-grenoble-alpes.fr).
 <hr>
 **Nicolas Douay** (Université Grenoble Alpes / Pacte). Nicolas Douay est Professeur d'urbanisme. Il travaille sur le recours à l'intelligenceartificielle dans le planning urbain. Contact : [nicolas.douay@univ-grenoble-alpes.fr](nicolas.douay@univ-grenoble-alpes.fr).
 <hr>
@@ -35,11 +35,11 @@ image: 			header-1.jpg
 <hr>
 **Severine Louvel** (Sciences Po Grenoble / Pacte). Séverine Louvel est Maître de conférences en sociologie. Elle travaille sur le recours à l'intelligence artificielle dans la relation de soin à l'hôpital. [Plus d'infos](https://www.pacte-grenoble.fr/membres/severine-louvel). Contact : [severine.louvel@iepg.fr](severine.louvel@iepg.fr).
 <hr>
-**Emmanuel Marty** (UGA / Gresec). Emmanuel Marty est Maître de conférences en sciences de l'information et de la communication. Il travaille sur la médiatisation de l'intelligence artificielle en France (avec Nathalie Walcsak) et les systèmes de recommandation culturelle (avec Vincent Bullich). Contact :[emmanuel.marty@univ-grenoble-alpes.fr](emmanuel.marty@univ-grenoble-alpes.fr).
+**Emmanuel Marty** (UGA / Gresec). Emmanuel Marty est Maître de conférences en sciences de l'information et de la communication. Il travaille sur la médiatisation de l'intelligence artificielle en France (avec Nathalie Walcsak) et les systèmes de recommandation culturelle (avec Vincent Bullich). [Plus d'infos](http://gresec.univ-grenoble-alpes.fr/version-francaise/membres/emmanuel-marty-539633.kjsp). Contact :[emmanuel.marty@univ-grenoble-alpes.fr](emmanuel.marty@univ-grenoble-alpes.fr).
 <hr>
 **Kavé Salamatian** (USMB / LIPSTIC). Kavé Salamatian est Professeur d'informatique. Il travaille sur l'Internet du futur, le traitement du signal distribué, la métrologie des réseaux et la théorie de la coopération. Contact : [kave.salamatian@univ-savoie.fr](kave.salamatian@univ-savoie.fr).
 <hr>
 **Mirjeta Shabani** (Master Mosig / G-INP, projet GenderedNews). Mirjeta Shabani est assistante de recherche de la chaire et travaille avec Gilles Bastin et François Portet (LIG) sur la détection des biais genrés dans les dépêches de l'AFP. Contact : [mirjeta.shabani2@grenoble-inp.org](mailto:mirjeta.shabani2@grenoble-inp.org)
 <hr>
-**Nathalie Walczak** (UGA / Gresec). Nathalie Walczak est Maître de conférences en sciences de l'information et de la communication. Elle travaille sur le débat public sur l'IA en France (avec Emmanuel Marty). Contact : [nathalie.walczak@univ-grenoble-alpes.fr](nathalie.walczak@univ-grenoble-alpes.fr).
+**Nathalie Walczak** (UGA / Gresec). Nathalie Walczak est Maître de conférences en sciences de l'information et de la communication. Elle travaille sur le débat public sur l'IA en France (avec Emmanuel Marty). [Plus d'infos](http://gresec.univ-grenoble-alpes.fr/version-francaise/membres/nathalie-walczak-534293.kjsp). Contact : [nathalie.walczak@univ-grenoble-alpes.fr](nathalie.walczak@univ-grenoble-alpes.fr).
 <hr>
