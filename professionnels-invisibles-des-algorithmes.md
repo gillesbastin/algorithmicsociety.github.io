@@ -13,9 +13,7 @@ image: 			header-1.jpg
 
 ---
 
-# Les professionnels des algorithmes : enquête sociologique sur les travailleurs invisibles des plateformes numériques
-
-## Jean Finez
+**Jean Finez**
 
 L’essor des nouvelles plateformes du web (Uber, Deliveroo, Airbnb…) a contribué à transformer en profondeur les pratiques de consommation en ligne. L’avènement de ce nouveau capitalisme numérique a également favorisé l’émergence d’une main d’œuvre précarisée et bon marché, sans laquelle ces sites web ne peuvent fonctionner. De nombreuses recherches ont analysé les conditions de travail et d’emploi des indépendants qui proposent leurs services sur ces plateformes. En concentrant leurs analyses sur l’activité des chauffeurs, livreurs et concierges présents dans les rues des grands centres urbains, ces études ont laissé dans l’ombre un ensemble d’individus exerçant leur activité en back office. Bien qu’invisibles, ces travailleurs sont pourtant essentiels au développement d’un capitalisme numérique mondialisé.
 
