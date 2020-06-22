@@ -13,7 +13,6 @@ image: 			header-1.jpg
 
 ---
 
-Les projest de recherche de la Chaire Société Algorithmique :
+Les projets de recherche de la Chaire Société Algorithmique :
 
-**Les professionnels des algorithmes : enquête sociologique sur les travailleurs invisibles des plateformes numériques**
-(Jean Finez)
+- [Les professionnels des algorithmes : enquête sociologique sur les travailleurs invisibles des plateformes numériques](/professionnels-invisibles-des-algorithmes.md) (Jean Finez)
