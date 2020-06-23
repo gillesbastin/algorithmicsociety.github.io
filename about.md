@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		About the chair
+title:  		About the chair (EN)
 type:			  page
 navigation: true
 details:    true
