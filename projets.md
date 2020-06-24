@@ -7,7 +7,7 @@ navigation: true
 details:    true
 
 date:   		2020-06-22
-excerpt: 		"Les projets de recherche de la chaire"
+excerpt: 		"Les chercheur•es participant à l'activité de la chaire conduisent des projets de recherche visant à mieux comprendre le fonctionnement des algorithmes et l'action de celles et ceux qui les produisent et les utilisent dans notre société."
 gradient: 	2
 image: 			header-1.jpg
 
