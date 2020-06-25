@@ -13,7 +13,7 @@ gradient:   2
 
 ---
 
-La chaire Société algorithmique conduit des recherches sur le tournant algorithmique de la société contemporaine. Elle étudie l'intelligence artificielle dans ses contextes sociaux, soutient la recherche multidisciplinaire sur les biais de l'intelligence artificelle et favorise le développement d'une litératie algorithmique parmi les étudiants en sciences sociales.
+La chaire Société algorithmique conduit des recherches sur le tournant algorithmique de la société contemporaine. Elle étudie l'intelligence artificielle dans ses contextes sociaux, soutient la recherche multidisciplinaire sur les biais de l'intelligence artificielle et favorise le développement d'une litératie algorithmique parmi les étudiants en sciences sociales.
 
 <hr>
 
